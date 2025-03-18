@@ -1,0 +1,12 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress": "cypress",
+    "test": "echo \"error:no test specified\"&& exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
